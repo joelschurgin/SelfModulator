@@ -4,10 +4,10 @@ SelfModulator is a VST3 audio plugin intended to be used in your Digital Audio W
 ## Build Instructions
 1) Open SelfModulator.jucer in Projucer. Download Projucer at https://juce.com/get-juce/
 2) Select exporter at the top (Visual Studio for Windows, Xcode for Mac). This plugin has only been tested on Windows.
-    ![alt text](image.png)
+    ![alt text](image.png | width=100)
 
     More export targets can be added in the "Exporters" panel with the "+" button.
-    ![alt text](image-1.png)
+    ![alt text](image-1.png | height=100)
 
 3) Build the project in your IDE!
 
