@@ -1,13 +1,15 @@
 # SelfModulator
 SelfModulator is a VST3 audio plugin intended to be used in your Digital Audio Workstation (DAW) of choice. This plugin implements Figure 5. in this paper: https://www.music.mcgill.ca/~ich/research/misc/papers/cr1154.pdf.
 
+![](SkilletBlockDiagram.png)
+
 ## Build Instructions
 1) Open SelfModulator.jucer in Projucer. Download Projucer at https://juce.com/get-juce/
 2) Select exporter at the top (Visual Studio for Windows, Xcode for Mac). This plugin has only been tested on Windows.
-    ![alt text](image.png)
+    ![](image.png)
 
     More export targets can be added in the "Exporters" panel with the "+" button.
-    ![alt text](image-1.png)
+    ![](image-1.png)
 
 3) Build the project in your IDE!
 
